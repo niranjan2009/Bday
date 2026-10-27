@@ -14,17 +14,17 @@ const REDUCE=matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 /* ============ EDIT YOUR WORDS HERE ============ */
 const CFG={
-  name:'Sandhiya',
+  name:'XXXXX',
   link:'',                       /* paste your GitHub link here (or keep editing it in index.html) */
   lead:'close your eyes… make a wish',
   hint:'press & hold to blow out the candles',
   done:'your wish is safe with me ♥',
   wishes:[
-   'Inniya Porandhanaal Nal Vaalthukal Sandhiya♥'
+   'Inniya Porandhanaal Nal Vaalthukal XXXXX♥'
   ],
   button:'open your surprise ♥',
   taps:['you + me','my favourite person','forever yours','my happy place','still falling for you','you are my home','my sunshine','smile for me ♥'],
-  sign:'with all my love, Niranjan ♥',
+  sign:'with all my love, YYYYY ♥',
   away:'come back… I miss you ♥',
   vol:'turn your volume up ♥',
   tip:'tip: turn your phone sideways for the full view'
